@@ -1,5 +1,5 @@
 baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+title: Donald Isaac Grimmer
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -12,25 +12,19 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
-          url: papers/
-          weight: 2
-        - name: Courses
-          url: courses/
+        - name: Personal Projects
+          url: personal/
+          weight: 2 
+        - name: Farm Projects
+          url: farm/
           weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+        - name: Commentary
+          url: commentary/
+          weight: 4
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
+    description: "This website hosts Donald Isaac Grimmer's curriculum vitae, personal projects, and contact information."
+    author: Donald Isaac Grimmer
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -54,50 +48,40 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
-          imageUrl: "picture.jpeg"
-          imageWidth: 160
-          imageHeight: 160
+          title: Donald Isaac Grimmer
+          subtitle: "I am a student at the University of British Columbia - Okanagan's School of Engineering pursuing a Bachelor of Civil Engineering degree. My interests include transportation engineering, infrastructure management, construction management, and water resources engineering. On this website, you can find my curriculum vitae, personal projects, and contact information."
+          imageUrl: "picture.png"
+          imageWidth: 320
+          imageHeight: 152
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Courses
-              url: courses/
+            - name: Personal Projects
+              url: personal/
+            - name: Farm Projects
+              url: farm/
+            - name: Commentary
+              url: commentary/
             - name: Tags
               url: tags/
             - name: Archive
               url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:igelfeld@regensburg.edu
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
+          url: mailto:isaac@grmr.ca
+        - name: Phone
+          url: tel:+12502220421
         - name: Location
           url: location/
         - name: Office Hours
           url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/donaldgrimmer
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
+          url: https://github.com/itsdonaldg
         - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-        - name: Twitter
-          url: https://x.com/pmichaillat
-        - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
+          url: https://www.youtube.com/donaldgrimmer
 
     assets:
         disableScrollBarStyle: true
@@ -105,9 +89,10 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
-      icon: favicon.ico
-      iconHeight: 18
+      text: "Donald Isaac Grimmer"
+      icon: "picture.png"
+      iconWidth: 80 
+      iconHeight: 38
 
 markup:
     goldmark:
