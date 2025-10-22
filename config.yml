@@ -12,10 +12,10 @@ taxonomies:
 
 menu:
     main:
-        - name: Personal Projects
+        - name: Personal
           url: personal/
           weight: 2 
-        - name: Farm Projects
+        - name: Farm
           url: farm/
           weight: 3
         - name: Commentary
@@ -24,7 +24,7 @@ menu:
 
 params:
     description: "This website hosts Donald Isaac Grimmer's curriculum vitae, personal projects, and contact information."
-    author: Donald Isaac Grimmer
+    author: "Donald Isaac Grimmer"
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -38,7 +38,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["personal", "farm", "commentary"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true

@@ -59,5 +59,3 @@ Gardner, N. J., Huh, J., & Chung, L. (2002). Lessons from the sampoong departmen
 Heo, L., Gil, S., & Collova, N. (2022). 30 years after the sampoong department store collapse: Development of south korean building sector. Journal of Student Research (Houston, Tex.), 11(3)https://doi.org/10.47611/jsrhs.v11i3.2946  
 
 Seoul Metropolitan City. (1996). Sampoong Department Store Collapse Accident White Paper (No. MONO1199606952). National Assembly Library. Retrieved March 21, 2025, from https://dl.nanet.go.kr/detail/MONO1199606952  
-
-Schreiber-Ziegler, Hilda, and Moritz-Maria von Igelfeld. 2021. "Your Inner Hedgehog." *Journal of Socio-Experimental Psychology* 131 (2): 1299–1302.
