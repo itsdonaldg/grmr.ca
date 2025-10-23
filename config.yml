@@ -74,8 +74,6 @@ params:
           url: tel:+12502220421
         - name: Location
           url: location/
-        - name: Office Hours
-          url: officehours/
         - name: LinkedIn
           url: https://www.linkedin.com/in/donaldgrimmer
         - name: GitHub
