@@ -49,7 +49,7 @@ params:
     profileMode:
           enabled: true
           title: Donald Isaac Grimmer
-          subtitle: "I am a student at the University of British Columbia - Okanagan's School of Engineering pursuing a Bachelor of Civil Engineering degree. My interests include transportation engineering, infrastructure management, construction management, and water resources engineering. On this website, you can find my curriculum vitae, personal projects, and contact information."
+          subtitle: "I am a civil engineering graduate of the University of British Columbia - Okanagan, with a Bachelor of Applied Science in Civil Engineering. I work with Vancouver Sand & Gravel in Coquitlam, BC, where I coordinate construction and aggregate operations, including marine barge logistics, environmental compliance, quality assurance, and data reporting. My interests include transportation engineering, infrastructure management, construction management, and water resources engineering. On this website, you can find my curriculum vitae, personal projects, and contact information."
           imageUrl: "picture.png"
           imageWidth: 320
           imageHeight: 152
