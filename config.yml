@@ -23,7 +23,7 @@ menu:
           weight: 4
 
 params:
-    description: "This website hosts Donald Isaac Grimmer's curriculum vitae, personal projects, and contact information."
+    description: "Donald Isaac Grimmer is an Engineer in Training and project coordinator in British Columbia's aggregate, ready-mix concrete, and heavy civil sector. This website hosts his curriculum vitae, personal projects, and contact information."
     author: "Donald Isaac Grimmer"
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -49,7 +49,7 @@ params:
     profileMode:
           enabled: true
           title: Donald Isaac Grimmer
-          subtitle: "I am a student at the University of British Columbia - Okanagan's School of Engineering pursuing a Bachelor of Civil Engineering degree. My interests include transportation engineering, infrastructure management, construction management, and water resources engineering. On this website, you can find my curriculum vitae, personal projects, and contact information."
+          subtitle: "I am a civil engineering graduate of UBC Okanagan and an Engineer in Training with Engineers and Geoscientists BC, working as a project coordinator in aggregate supply, ready-mix concrete, soil disposal, and heavy civil earthworks across British Columbia. My work runs from mine and land-use permitting through health and safety systems to the automation that reports on site operations. On this website you can find my curriculum vitae, personal projects, and contact information."
           imageUrl: "picture.png"
           imageWidth: 320
           imageHeight: 152
